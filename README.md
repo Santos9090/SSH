@@ -1,98 +1,107 @@
 # SSH
 
 Ejercicio 1
-´´´bash
+```bash
+#!/bin/bash
 
+echo "Ingrese un número entero: "
+read num
 
-´´´
+if [ $num -gt 0 ]; then
+  echo "El número ${num} es positivo"
+else
+  echo "El número ${num} no es positivo"
+fi
+
+```
 Ejercicio 2
-´´´bash
+```bash
 
 
-´´´
+```
 Ejercicio 3
-´´´bash
+```bash
 
 
-´´´
+```
 Ejercicio 4
-´´´bash
+```bash
 
 
-´´´
+```
 Ejercicio 5
-´´´bash
+```bash
 
 
-´´´
+```
 Ejercicio 6
-´´´bash
+```bash
 
 
-´´´
+```
 Ejercicio 7
-´´´bash
+```bash
 
 
-´´´
+```
 Ejercicio 8
-´´´bash
+```bash
 
 
-´´´
+```
 Ejercicio 9
-´´´bash
+```bash
 
 
-´´´
+```
 Ejercicio 10
-´´´bash
+```bash
 
 
-´´´
+```
 Ejercicio 11
-´´´bash
+```bash
 
 
-´´´
+```
 Ejercicio 12
-´´´bash
+```bash
 
 
-´´´
+```
 Ejercicio 13
-´´´bash
+```bash
 
 
-´´´
+```
 Ejercicio 14
-´´´bash
+```bash
 
 
-´´´
+```
 Ejercicio 15
-´´´bash
+```bash
 
 
-´´´
+```
 Ejercicio 16
-´´´bash
+```bash
 
 
-´´´
+```
 Ejercicio 17
-´´´bash
+```bash
 
-´´´
+```
 Ejercicio 18
-´´´bash
+```bash
 
-´´´
+```
 Ejercicio 19
-´´´bash
+```bash
 
-´´´
+```
 Ejercicio 20
-´´´bash
+```bash
 
-´´´
+```
